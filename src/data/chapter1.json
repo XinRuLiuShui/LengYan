@@ -1,0 +1,502 @@
+[
+  {
+    "title": "第一会  毗卢真法会",
+    "sections": [
+      {
+        "title": "初 三宝三乘",
+        "chants": [
+          {
+            "text": "南无萨怛他, 苏伽多耶, 阿罗诃帝, 三藐三菩陀写",
+            "pinyin": "nā mó sà dá tuō．sū qié duō yē．ā là hē dì．sān miǎo sān pú tuó xiě",
+            "meaning": "我今礼敬皈命，一切如来应正等觉"
+          },
+          {
+            "text": "萨怛他, 佛陀俱胝瑟尼钐",
+            "pinyin": "nā mó sà dá tuō．fó tuó jù zhī sěi ní shàn",
+            "meaning": "皈命一切诸佛大佛顶首"
+          },
+          {
+            "text": "南无萨婆, 勃陀勃地, 萨跢鞞弊",
+            "pinyin": "nā mó sà pó．bó tuó bó dì．sà duò pí bì",
+            "meaning": "皈命诸大菩萨至心承事贤圣"
+          },
+          {
+            "text": "南无萨多南, 三藐三菩陀俱知喃",
+            "pinyin": "nā mó sà duō nán．sān miǎo sān pú tuó．jù zhī nán",
+            "meaning": "皈命一切圣众、三世正遍知觉"
+          },
+          {
+            "text": "娑舍罗婆迦, 僧伽喃",
+            "pinyin": "suō shě là pó jiā．sēng qié nán",
+            "meaning": "敬礼大辟支佛"
+          },
+          {
+            "text": "南无卢鸡阿罗汉跢喃",
+            "pinyin": "nā mó lú jī ā luó hàn duò nán",
+            "meaning": "敬礼大阿罗汉"
+          },
+          {
+            "text": "南无苏卢多波那喃",
+            "pinyin": "nā mó sū lú duō bō nuó nán",
+            "meaning": "敬礼须陀洹(初果)"
+          },
+          {
+            "text": "南无娑羯唎陀伽弥喃",
+            "pinyin": "nā mó suō jié lī tuó qié mí nán",
+            "meaning": "敬礼斯陀含(二果)"
+          },
+          {
+            "text": "南无卢鸡三藐伽跢喃",
+            "pinyin": "nā mó lú jī sān miǎo qié duò nán",
+            "meaning": "敬礼阿那含(三果)"
+          },
+          {
+            "text": "三藐伽波罗, 底波多那喃",
+            "pinyin": "sān miǎo qié bō là．dǐ bō duō nuó nán",
+            "meaning": "敬礼过去未来现在诸圣贤众"
+          }
+        ]
+      },
+      {
+        "title": "二 三界梵释",
+        "chants": [
+          {
+            "text": "南无提婆离瑟赧, 南无悉陀耶, 毗地耶, 陀罗离瑟赧, 舍波奴, 揭罗诃, 娑诃娑罗摩他喃",
+            "pinyin": "nā mó tí pó lí sěi nǎn. nā mó xī tuó yē．pí dì yē．tuó là lí sěi nǎn. shě bō nú．jiē là hē．suō hē suō là mó tuō nán",
+            "meaning": "敬礼色界天众、敬礼兜率天众、四天王天众、化乐天众、广果天众、他化自在天众、等大千世界一切天仙众"
+          },
+          {
+            "text": "南无跋罗诃摩泥, 南无因陀罗耶",
+            "pinyin": "nā mó bá là hē mó ní. nā mó yīn tuó là yē",
+            "meaning": "敬礼大梵天众、敬礼帝释天王"
+          }
+        ]
+      },
+      {
+        "title": "三 五大诸天",
+        "chants": [
+          {
+            "text": "南无婆伽婆帝, 嚧陀罗耶, 乌摩般帝, 娑醯夜耶",
+            "pinyin": "nā mó pó qié pó dì. lú tuó là yē. wū mó bō dì. suō xī yè yē",
+            "meaning": "敬礼薄伽梵，地天神（大自在天）、风天神、火天神"
+          },
+          {
+            "text": "南无婆伽婆帝, 那罗野拏耶, 盘遮摩诃三慕陀罗, 南无悉羯唎多耶",
+            "pinyin": "nā mó pó qié pó dì. nuó là yě ná yē. pán zhē mó hē．sān mù tuó là. nā mó xī jié lī duō yē.",
+            "meaning": "敬礼薄伽梵，水天神、空天神、歌乐天神，敬礼上述诸天神众"
+          },
+          {
+            "text": "南无婆伽婆帝, 摩诃迦罗耶, 地唎般剌那, 伽罗毗陀罗, 波拏迦罗耶, 阿地目帝",
+            "pinyin": "nā mó pó qié pó dì. mó hē jiā là yē. dì lì bō lá nà qié là. pí tuó là．bō ná jiā là yē. ā dì mù dì.",
+            "meaning": "敬礼薄伽梵，大梵天王众、无量光天众（燃灯古佛）、五不还天众（五兄弟天）、摩醯首众天众（天曹众）、善见天众"
+          },
+          {
+            "text": "尸摩舍那泥, 婆悉泥, 摩怛唎伽拏, 南无悉羯唎多耶",
+            "pinyin": "shīmó shě nuó ní.　pó xī ní. mó dá lī qié ná. nā mó xī jié lī duō yē.",
+            "meaning": "尸弃大梵（天神众）、无想天众（天兵众）、忉利天众（天男女衆），敬礼上述诸天神众"
+          }
+        ]
+      },
+      {
+        "title": "四 五部种族",
+        "chants": [
+          {
+            "text": "南无婆伽婆帝, 多他伽跢俱罗耶",
+            "pinyin": "nā mó pó qié pó dì. duō tuō qié duò jù là yē.",
+            "meaning": "皈命薄伽梵，中央佛部种族"
+          },
+          {
+            "text": "南无般头摩俱罗耶",
+            "pinyin": "nā mó bō tóu mó．jù là yē.",
+            "meaning": "皈命西方莲花部种族众"
+          },
+          {
+            "text": "南无跋闍罗俱罗耶",
+            "pinyin": "nā mó bá shé là．jù là yē.",
+            "meaning": "皈命东方金刚部种族众"
+          },
+          {
+            "text": "南无摩尼俱罗耶",
+            "pinyin": "nā mó mó ní jù là yē.",
+            "meaning": "皈命南方宝生部种族众，神，虚空藏菩萨"
+          },
+          {
+            "text": "南无伽闍俱罗耶",
+            "pinyin": "nā mó qié shé jù là yē.",
+            "meaning": "皈命北方羯磨部种族众，鬼众，地藏菩萨"
+          },
+          {
+            "text": "南无婆伽婆帝, 帝唎茶, 输罗西那, 波罗诃罗拏罗闍耶, 跢他伽多耶",
+            "pinyin": "nā mó pó qié pó dì. dì lī chá．shū là xī nuó. bō là hē là ná là shé yē. duò tuō qié duō yē.",
+            "meaning": "皈命薄伽梵，各持器仗大力猛将,破魔军，无能胜，皈依如来"
+          }
+        ]
+      },
+      {
+        "title": "五 六方诸佛",
+        "chants": [
+          {
+            "text": "南无婆伽婆帝, 南无阿弥多婆耶, 跢他伽多耶, 阿罗诃帝, 三藐三菩陀耶",
+            "pinyin": "nā mó pó qié pó dì. nā mó ā mí duō pó yē. duò tuō qié duō yē. ā là hē dì. sān miǎo sān pú tuó yē.",
+            "meaning": "皈命薄伽梵，皈命无量寿佛、普礼如来一切门人、普礼应真一切 王族、皈命正觉一切圣贤"
+          },
+          {
+            "text": "南无婆伽婆帝, 阿刍鞞耶, 跢他伽多耶, 阿罗诃帝, 三藐三菩陀耶",
+            "pinyin": "nā mó pó qié pó dì. ā chú pí yē. duò tuō qié duō yē. ā là hē dì. sān miǎo sān pú tuó yē.",
+            "meaning": "皈命薄伽梵，阿閦如来、普礼如来一切门人、普礼应真一切王族、皈命正觉一切圣贤"
+          },
+          {
+            "text": "南无婆伽婆帝, 鞞沙闍耶, 俱卢吠柱唎耶, 般罗婆罗闍耶, 跢他伽多耶",
+            "pinyin": "nā mó pó qié pó dì. pí shā shé yē. jù lú fèi zhù lī yē. bō là pó là shé yē. duò tuō qié duō yē.",
+            "meaning": "皈命薄伽梵，药师琉璃光佛众、药师琉璃青色宝，智慧光明，普礼如来一切门人"
+          },
+          {
+            "text": "南无婆伽婆帝, 三补师毖多, 萨怜捺罗剌闍耶, 跢他伽多耶, 阿罗诃帝, 三藐三菩陀耶",
+            "pinyin": "nā mó pó qié pó dì. sān bǔ shī bì duō. sà lián nà là．là shé yē. duò tuō qié duō yē. ā là hē dì. sān miǎo sān pú tuó yē.",
+            "meaning": "皈命薄伽梵，普光娑罗王佛、普礼如来一切门人、普礼应真一切王族、皈命正觉一切圣贤"
+          },
+          {
+            "text": "南无婆伽婆帝, 舍鸡野母那曳, 跢他伽多耶, 阿罗诃帝, 三藐三菩陀耶",
+            "pinyin": "nā mó pó qié pó dì. shě jī yě．mǔ nuó yè. duò tuō qié duō yē. ā là hē dì. sān miǎo sān pú tuó yē.",
+            "meaning": "皈命薄伽梵，无垢、离垢佛（直林或大树林，皈命佛大弟子衆）、普礼如来一切门人、普礼应真一切王族、皈命正觉一切圣贤"
+          },
+          {
+            "text": "南无婆伽婆帝, 剌怛那鸡都罗闍耶, 跢他伽多耶, 阿罗诃帝, 三藐三菩陀耶",
+            "pinyin": "nā mó pó qié pó dì. là dá nà．jī dū là shé yē. duò tuō qié duō yē. ā là hē dì. sān miǎo sān pú tuó yē.",
+            "meaning": "皈命薄伽梵，敬礼宝光、宝幢王佛众、普礼如来一切门人、普礼应真一切王族、皈命正觉一切圣贤"
+          }
+        ]
+      },
+      {
+        "title": "六 五部咒心",
+        "chants": [
+          {
+            "text": "帝瓢, 南无萨羯唎多, 翳昙婆伽婆多, 萨怛他伽都瑟尼钐, 萨怛多般怛蓝",
+            "pinyin": "dì piáo．nā mó sà jié lī duō. yì tán pó qié pó duō. sà dàntuō　qié dū sěi ní shàn. sà dan duō bō dá lán.",
+            "meaning": "最上三宝我今皈依敬礼 至今发心愿学无上教，我今敬礼宝伞华盖佛顶心咒"
+          },
+          {
+            "text": "南无阿婆罗视耽, 般罗帝, 扬歧罗",
+            "pinyin": "nā　mō e　pó là shì dān. bō là dì yáng qí là.",
+            "meaning": "皈命 无能胜波罗密多（到彼岸），摧伏怨魔，起观照智，令到彼岸成等正觉"
+          },
+          {
+            "text": "萨罗婆, 部多揭罗诃, 尼羯罗诃, 羯迦罗诃尼, 跋罗毖地耶",
+            "pinyin": "sà là pó bù duō．jiē là hē. ní jiē là hē．jié jiā là hē ní. bá là bì dì yē．",
+            "meaning": "一切大乘种性、三乘内上首种性， 五层种性（人，天，阿罗汉，菩萨，佛）等诸圣众、般若菩提道果"
+          },
+          {
+            "text": "叱陀你, 阿迦罗",
+            "pinyin": "chì tuó nǐ. e jiā là.",
+            "meaning": "依西方莲花部心咒--观音如意心咒、大悲咒"
+          },
+          {
+            "text": "密唎柱",
+            "pinyin": "mì lì zhù.",
+            "meaning": "依东方金刚部心咒"
+          },
+          {
+            "text": "般唎怛罗耶",
+            "pinyin": "bō lī dá là yē．",
+            "meaning": "依南方宝生部心咒"
+          },
+          {
+            "text": "儜揭唎",
+            "pinyin": "níng jiē lī.",
+            "meaning": "依北方羯磨部心咒"
+          },
+          {
+            "text": "萨罗婆, 盘陀那, 目叉尼",
+            "pinyin": "sà là pó．pán tuó nuó．mù chā ní.",
+            "meaning": "一切结界道场，解除诸难苦缚"
+          },
+          {
+            "text": "萨罗婆, 突瑟吒, 突悉乏, 般那你, 伐罗尼",
+            "pinyin": "sà là pó．tū sěi zhà. tū xī fá．bō nà nǐ fá là ní.",
+            "meaning": "一切别见烦恼，一切噩梦不吉祥事，烦恼，转为智慧自"
+          },
+          {
+            "text": "赭都罗, 失帝南",
+            "pinyin": "zhě dū là shī dì nán",
+            "meaning": "一切冤家不祥，皆令平息解脱"
+          }
+        ]
+      },
+      {
+        "title": "七 折摄天神",
+        "chants": [
+          {
+            "text": "羯罗诃, 娑诃萨罗若闍, 毗多崩娑那羯唎",
+            "pinyin": "jié là hē. suō hē sà là ruò shé. pí duō bēng suō nuó jié lī",
+            "meaning": "娑婆大千界内，八万四千诸天金刚护法众普皆来集，（毗多崩娑）破平障难，打破一切诸害,  娑诃, 萨罗:归往 若闍：勾抓，羯唎：度"
+          },
+          {
+            "text": "阿瑟吒冰, 舍帝南",
+            "pinyin": "ā sè zhà bīng shě dì nán",
+            "meaning": "一切神众普去破怨，折伏魔害，令钦伏也  阿瑟吒冰：护界神，护法神，舍帝南：护伽蓝神"
+          },
+          {
+            "text": "那叉刹怛罗若闍",
+            "pinyin": "nuó chā chà dá là ruò shé",
+            "meaning": "金刚力士放光解厄，以摄受也"
+          },
+          {
+            "text": "波罗萨陀那羯唎",
+            "pinyin": "bō là sà tuó nuó jié lī",
+            "meaning": "金刚萨埵发猛到岸，以折伏也"
+          },
+          {
+            "text": "阿瑟吒南, 摩诃羯罗诃若闍",
+            "pinyin": "ā sè zhà nán. mó hē jié là hē ruò shé",
+            "meaning": "大乘金刚手，光面引进之"
+          },
+          {
+            "text": "毗多崩萨那羯唎",
+            "pinyin": "pí duō bēng sà nuó jié lī",
+            "meaning": "金刚将种种诃责而降伏之"
+          },
+          {
+            "text": "萨婆舍都嚧, 你婆罗若闍",
+            "pinyin": "sà pó shě dū lu，nǐ pó là ruò shé",
+            "meaning": "一切金刚首主，引皈三宝，治诸怨害，流注病难，令生善喜也"
+          },
+          {
+            "text": "呼蓝突悉乏",
+            "pinyin": "hū lán tū xī fá",
+            "meaning": "消灭一切诸恶）"
+          },
+          {
+            "text": "难遮那舍尼",
+            "pinyin": "nán zhē nuó shě ní",
+            "meaning": "诸水神众，解除水毒"
+          },
+          {
+            "text": "毖沙舍",
+            "pinyin": "bì shā shě",
+            "meaning": "诸虚空神，解时气病"
+          },
+          {
+            "text": "悉怛罗",
+            "pinyin": "xī dá là",
+            "meaning": "诸地神众，解地大损病, 监牢地神，坚持"
+          },
+          {
+            "text": "阿吉尼",
+            "pinyin": "ā jí ní",
+            "meaning": "悀鶦垓部，解除火毒"
+          },
+          {
+            "text": "乌陀迦罗若闍",
+            "pinyin": "wū tuó jiā là ruò shé",
+            "meaning": "诸风神众，解除风瘫"
+          }
+        ]
+      },
+      {
+        "title": "八 七大诸圣",
+        "chants": [
+          {
+            "text": "阿般罗，视多具罗",
+            "pinyin": "ā bō là shì duō jù là",
+            "meaning": "弥勒菩萨等诸圣众，无能胜，大势至菩萨"
+          },
+          {
+            "text": "摩诃般罗战持",
+            "pinyin": "mó hē bō là zhàn chí",
+            "meaning": "月光菩萨"
+          },
+          {
+            "text": "摩诃叠多",
+            "pinyin": "mó hē dié duō",
+            "meaning": "乌刍瑟摩火头金刚大将， 火天神"
+          },
+          {
+            "text": "摩诃帝闍",
+            "pinyin": "mó hē dì shé",
+            "meaning": "虚空藏菩萨"
+          },
+          {
+            "text": "摩诃税多闍婆罗",
+            "pinyin": "mó hē shuì duō shé pó là",
+            "meaning": "观自在菩萨，税多（白）， 闍婆罗（观世音）"
+          },
+          {
+            "text": "摩诃跋罗盘陀罗",
+            "pinyin": "mó hē bá là pán tuó là",
+            "meaning": "跋陀婆罗菩萨、跋罗（普贤菩萨）、周梨盘特迦尊者"
+          },
+          {
+            "text": "婆悉你",
+            "pinyin": "pó xī nǐ",
+            "meaning": "波斯匿王"
+          },
+          {
+            "text": "阿唎耶多罗",
+            "pinyin": "ā lī yē duō là",
+            "meaning": "持地菩萨"
+          },
+          {
+            "text": "毗唎俱知",
+            "pinyin": "pí lī jù zhī",
+            "meaning": "琉璃光法王子，药师佛"
+          },
+          {
+            "text": "誓婆毗闍耶",
+            "pinyin": "shì pó pí shé yē",
+            "meaning": "药王 药上 菩萨 上述指圆通诸圣"
+          }
+        ]
+      },
+      {
+        "title": "九 五部法将",
+        "chants": [
+          {
+            "text": "跋闍罗摩礼底",
+            "pinyin": "bá shé là. mó lǐ dǐ",
+            "meaning": "护羯摩部金刚神， 跋闍罗（金刚）"
+          },
+          {
+            "text": "毗舍嚧多, 勃腾罔迦",
+            "pinyin": "pí shě lú duō bó téng wǎng jiā",
+            "meaning": "护中央佛部金刚神"
+          },
+          {
+            "text": "跋闍罗, 制喝那阿遮",
+            "pinyin": "b á shé là .zhì hē nuó a zhē",
+            "meaning": "护金刚部金刚神"
+          },
+          {
+            "text": "摩罗制婆",
+            "pinyin": "mó là zhì pó.",
+            "meaning": "护灌顶部金刚神"
+          },
+          {
+            "text": "般罗质多",
+            "pinyin": "bō là zhì duō",
+            "meaning": "护莲花部金刚神"
+          },
+          {
+            "text": "跋闍罗, 擅持",
+            "pinyin": "bá shé là shàn chí",
+            "meaning": "解脱诸大法门，金刚剑神，金刚杵"
+          },
+          {
+            "text": "毗舍罗遮",
+            "pinyin": "pí shě là zhē",
+            "meaning": "降伏法，天神力士"
+          },
+          {
+            "text": "扇多舍",
+            "pinyin": "shàn duō shě",
+            "meaning": "息灾法"
+          },
+          {
+            "text": "鞞提婆",
+            "pinyin": "pí tí pó",
+            "meaning": "钩召法，天神力士"
+          },
+          {
+            "text": "补视多",
+            "pinyin": "bǔ shì duō",
+            "meaning": "增益法"
+          },
+          {
+            "text": "苏摩嚧波",
+            "pinyin": "sū mó lú bō",
+            "meaning": "敬爱法"
+          }
+        ]
+      },
+      {
+        "title": "十 三宫天众",
+        "chants": [
+          {
+            "text": "摩诃税多, 阿唎耶多罗",
+            "pinyin": "mó hē shuì duō ā lī yē duō là",
+            "meaning": "大日月宫天子"
+          },
+          {
+            "text": "摩诃婆罗阿般罗",
+            "pinyin": "mó hē pó là ā bō là",
+            "meaning": "大星宫天子、五星、九曜、二十八宿等八万四千诸星眷属"
+          }
+        ]
+      },
+      {
+        "title": "十一 五坛界神",
+        "chants": [
+          {
+            "text": "跋闍罗, 商羯罗制婆",
+            "pinyin": "bá shé là. shāng jié là zhì pó",
+            "meaning": "金刚连锁甲"
+          },
+          {
+            "text": "跋闍罗俱摩唎, 俱蓝陀唎",
+            "pinyin": "bá shé là jù mó lī ， jù lán tuó lī",
+            "meaning": "金刚童男众 金刚神女众"
+          },
+          {
+            "text": "跋闍罗, 喝萨多遮, 毗地耶, 乾遮那",
+            "pinyin": "bá shé là. hē sà duō zhē. pí dì yē. qián zhē nuó",
+            "meaning": "金刚聚首，（毗地耶）明、咒  阿閦佛坛神众（药师佛），乾遮那 四大天王的太子"
+          },
+          {
+            "text": "摩唎迦, 啒苏母",
+            "pinyin": "mó lī jiā. kǔ sū mǔ",
+            "meaning": "弥陀佛坛神众"
+          },
+          {
+            "text": "婆羯罗跢那",
+            "pinyin": "pó jié là duò nuó",
+            "meaning": "北方成就佛坛神众"
+          },
+          {
+            "text": "鞞嚧遮那, 俱唎耶, 夜罗菟, 瑟尼钐",
+            "pinyin": "pí lú zhē nuó. jù lī ye . yè là tú. sè ní shān",
+            "meaning": "毗卢佛坛神众, 莲花部，四大天王的神部"
+          },
+          {
+            "text": "毗折蓝婆, 摩尼遮",
+            "pinyin": "pí zhē lán pó. mó ní zhē",
+            "meaning": "宝生佛坛神众"
+          },
+          {
+            "text": "跋闍罗, 迦那迦波罗婆, 嚧闍那",
+            "pinyin": "bá shé là. jiā nuó jiā bō là pó, lú shé nuó",
+            "meaning": "守护毗卢佛中方界神"
+          },
+          {
+            "text": "跋闍罗顿稚遮, 税多遮, 迦摩罗",
+            "pinyin": "bá shé là. dùn zhì zhē. shuì duō zhē. jiā mó là",
+            "meaning": "守护西方界神"
+          },
+          {
+            "text": "刹奢尸, 波罗婆",
+            "pinyin": "chà shē shī. bō là pó",
+            "meaning": "帆盖，守护南方界神，恒河沙的金刚力士"
+          },
+          {
+            "text": "翳帝夷帝",
+            "pinyin": "yì dì yí dì",
+            "meaning": "守护东方界神"
+          },
+          {
+            "text": "母陀罗, 羯拏",
+            "pinyin": "mǔ tuó là. jié nú",
+            "meaning": "诸佛印咒，守护北方界神，成就"
+          }
+        ]
+      },
+      {
+        "title": "十二 十佛印成",
+        "chants": [
+          {
+            "text": "娑鞞罗忏, 掘梵都, 印兔那, 麼麼写",
+            "pinyin": "suō pí là chàn. jué fàn dū. yìn tù nuó. mó mó xiě",
+            "meaning": "身礼忏口请悔心，三业忏悔，求佛印证，我所作者尽皆成就，圆满菩提"
+          }
+        ]
+      }
+    ]
+  }
+]
